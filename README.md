@@ -20,12 +20,11 @@ Make sure you have:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/rpritr/weather-app-widget
-cd weather-widget
+git clone https://github.com/TheFatPanda-Dev/weather-app-widget
+cd weather-app-widget
 npm install
 # or
 yarn install
-npm start
 ```
 
 ## Run locally
